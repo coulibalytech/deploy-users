@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Gestion des fichiers windows"
+echo "Gestion des fichiers windows V1.0.0"
